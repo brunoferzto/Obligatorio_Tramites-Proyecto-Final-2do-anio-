@@ -1,0 +1,169 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#MPMenu{
+    margin-left: 25%;
+}
+
+#MPMenu ul{
+    list-style: none;
+}
+
+#MPMenu ul li{
+
+    background-color:cornflowerblue;
+    border: solid 1px white;
+    width: 155px;
+    height: 40px;
+    text-align: center;
+    line-height: 35px;
+    float:left;
+    border-radius: 8px;
+    margin: 0 2px;
+}
+    #MPMenu ul li a{
+        text-decoration:none;
+        color: #fff;
+        display: block;
+
+
+
+    }
+    #MPMenu ul li:hover {
+        background-color: #3F96DA;
+        color: #fff;
+    }
+
+.titulo {
+    color: #36EA31;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.txts {
+
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    border-radius: 2px;
+
+    font-size: 16px;
+}
+
+.txts:focus{
+    border-color:skyblue;
+}
+.botones {
+    margin-top: 4px;
+    border: none;
+    outline: none;
+    width:80px;
+    height:30px;
+
+    background-color: skyblue;
+    font-size: 18px;
+    border-radius: 10px;
+    color: #fff;
+}
+    .botones:hover {
+        background-color: #84E5EA;
+        color: #FDFEF2;
+    }
+    .TextoPrincipal{
+        position: center;
+    }
+
+.Caja-Registro {
+    width: 520px;
+    height: 260px;
+    background: #F9F9F9;
+    position: relative;
+    left: 32%;
+    border-radius: 5px;
+    padding: 10px;
+}
+.Caja-Consulta {
+    width: 400px;
+    height: 350px;
+    background: #F9F9F9;
+    position: relative;
+    left: 36%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.Caja-Solicitud {
+    width: 700px;
+    height: 400px;
+    background: #F9F9F9;
+    position: relative;
+    left: 26%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+    .Caja-Solicitud .CalFecha {
+        position: absolute;
+        margin-bottom: 20px;
+        top: 85px;
+        left: 40px;
+    }
+
+    .Caja-Solicitud .DdlHora {
+        position: absolute;
+        top: 85px;
+        right: 150px;
+        margin-bottom: 20px;
+        width:60px;
+        height:33px;
+    }
+.Caja-Solicitud .fecha{
+    position:absolute;
+    top: 10px;
+    left: 150px;
+}
+    .Caja-Solicitud .hora {
+        position: absolute;
+        top: 10px;
+        right: 150px;
+    }
+    .Caja-Solicitud .tipo {
+        position: absolute;
+        top: 150px;
+        right: 154px;
+    }
+    .Caja-Solicitud .DdlTipo {
+        position: absolute;
+        top: 220px;
+        right: 149px;
+        margin-bottom: 20px;
+        height: 30px;
+    }
+
+    .Caja-Solicitud .BtnSolicitar {
+        position: absolute;
+        margin-top: 4px;
+        border: none;
+        outline: none;
+        bottom: 50px;
+        width: 110px;
+        height: 40px;
+        left: 45%;
+        background-color: #5DA1D5;
+        font-size: 18px;
+        border-radius: 10px;
+        color: #fff;
+    }
+        .Caja-Solicitud .BtnSolicitar:hover {
+            background-color: #84E5EA;
+            color: #FDFEF2;
+        }
+
+.LblError{
+    position:relative;
+    bottom: 10px;
+    left: 40%;
+    color:red;
+}

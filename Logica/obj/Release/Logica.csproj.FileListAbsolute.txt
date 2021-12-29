@@ -1,0 +1,40 @@
+C:\Users\usuario\Desktop\Tramites\Logica\bin\Release\Logica.dll
+C:\Users\usuario\Desktop\Tramites\Logica\bin\Release\Logica.pdb
+C:\Users\usuario\Desktop\Tramites\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Tramites\Logica\bin\Release\Persistencia.dll
+C:\Users\usuario\Desktop\Tramites\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Tramites\Logica\bin\Release\Persistencia.pdb
+C:\Users\usuario\Desktop\Tramites\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Tramites\Logica\obj\Release\Logica.dll
+C:\Users\usuario\Desktop\Tramites\Logica\obj\Release\Logica.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\bin\Release\Logica.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\bin\Release\Logica.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\bin\Release\Persistencia.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\bin\Release\Persistencia.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.csproj.CopyComplete
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\bin\Release\Logica.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\bin\Release\Logica.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\bin\Release\Persistencia.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\bin\Release\Persistencia.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.csprojAssemblyReference.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.csproj.CopyComplete
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Logica\obj\Release\Logica.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\bin\Release\Logica.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\bin\Release\Logica.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\bin\Release\Persistencia.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\bin\Release\Persistencia.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\obj\Release\Logica.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\Logica\obj\Release\Logica.pdb

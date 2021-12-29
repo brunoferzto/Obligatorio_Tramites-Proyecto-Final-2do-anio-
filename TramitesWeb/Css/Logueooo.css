@@ -1,0 +1,71 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+
+}
+.Caja-Logueo {
+    width: 320px;
+    height: 390px;
+    background: #B6B6B6;
+    color: #fff;
+    top: 120px;
+    left: 40%;
+    position: relative;
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 5px;
+}
+    .Caja-Logueo .Logo-Logueo {
+        width: 100px;
+        height:100px;
+        border-radius: 50%;
+        position:absolute;
+        top: -50px;
+        left: calc(50% - 50px);
+    }
+
+    .Caja-Logueo h1 {
+        margin: 0;
+        padding: 0;
+        font-weight: bold;
+        display: block;
+    }
+
+    .Labels {
+        margin: 0;
+        padding: 0;
+        font-weight: bold;
+        display: block;
+    }
+
+.TextBoxs{
+       width: 100%;
+       margin-bottom: 20px;
+       border: none;
+       border-bottom: 1px solid #fff;
+       background: transparent;
+       outline: none;
+       height: 40px;
+       color: #fff;
+       font-size: 16px;
+
+}
+    .TextBoxs:focus {
+        border-color: skyblue;
+    }
+.Btn-Logueo {
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: #909090;
+    outline: none;
+    border: none;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 3px;
+    color: #fff;
+}
+
+    .Btn-Logueo:hover {
+        background-color: #7D7D7D;
+        color: #fff;
+    }

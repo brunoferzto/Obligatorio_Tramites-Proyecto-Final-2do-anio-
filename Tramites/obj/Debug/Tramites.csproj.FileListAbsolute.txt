@@ -1,0 +1,170 @@
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\prueba\Tramites\bin\Debug\Tramites.exe.config
+C:\Users\Diego\Desktop\prueba\Tramites\bin\Debug\Tramites.exe
+C:\Users\Diego\Desktop\prueba\Tramites\bin\Debug\Tramites.pdb
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.exe
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.pdb
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmAbout.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+C:\Users\Diego\Desktop\prueba\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\bin\Debug\Tramites.exe.config
+C:\Users\usuario\Desktop\Tramites\Tramites\bin\Debug\Tramites.exe
+C:\Users\usuario\Desktop\Tramites\Tramites\bin\Debug\Tramites.pdb
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmAbout.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.exe
+C:\Users\usuario\Desktop\Tramites\Tramites\obj\Debug\Tramites.pdb
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csprojResolveAssemblyReference.cache
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmAbout.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csproj.GenerateResource.Cache
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.exe
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.pdb
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.exe.config
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.exe
+C:\Users\Bruno.000\Desktop\Drive\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.pdb
+F:\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.exe.config
+F:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.pdb
+E:\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.exe.config
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.pdb
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csprojResolveAssemblyReference.cache
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmAbout.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+E:\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csproj.GenerateResource.Cache
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.exe.config
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.pdb
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.exe
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.pdb
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csprojResolveAssemblyReference.cache
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmAbout.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csproj.GenerateResource.Cache
+C:\Users\Bruno.000\Desktop\aa\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.exe
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.exe.config
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.exe
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\bin\Debug\Tramites.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csprojAssemblyReference.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmAbout.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csproj.GenerateResource.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.exe
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Tramites\obj\Debug\Tramites.pdb
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\bin\Debug\Tramites.exe.config
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.exe
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.pdb
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\bin\Debug\Tramites.exe
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\bin\Debug\Tramites.pdb
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.csprojResolveAssemblyReference.cache
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmAbout.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+C:\Users\Bruno.000\Google Drive\PROYECTO FINAL (1)\Tramites (1)\Tramites\obj\Debug\Tramites.csproj.GenerateResource.Cache
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\bin\Debug\Tramites.exe.config
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.exe
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmAbout.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.csproj.GenerateResource.Cache
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\bin\Debug\Tramites.exe
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\bin\Debug\Tramites.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Tramites\obj\Debug\Tramites.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\bin\Debug\Tramites.exe.config
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\bin\Debug\Tramites.exe
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\bin\Debug\Tramites.pdb
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmAbout.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.exe
+C:\Users\Administrador\Desktop\OBLIHA\Tramites (1)\Tramites\obj\Debug\Tramites.pdb
+E:\Presentar\Tramites (1)\Tramites\bin\Debug\Tramites.exe.config
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.exe
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.pdb
+E:\Presentar\Tramites (1)\Tramites\bin\Debug\Tramites.exe
+E:\Presentar\Tramites (1)\Tramites\bin\Debug\Tramites.pdb
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.csprojResolveAssemblyReference.cache
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMDocumentacion.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMEmpleado.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmABMTipodeTramite.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmAbout.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmCambioEstadoSolicitud.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmListadoSolicitudes.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmLogueo.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmPresentacion.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.FrmPrincipal.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.Properties.Resources.resources
+E:\Presentar\Tramites (1)\Tramites\obj\Debug\Tramites.csproj.GenerateResource.Cache

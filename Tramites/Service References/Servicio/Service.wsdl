@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://pc116/ServicioWCF/Service.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://pc116/ServicioWCF/Service.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://pc116/ServicioWCF/Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/EntidadesCompartidas" />
+      <xsd:import schemaLocation="http://pc116/ServicioWCF/Service.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicio_BuscarDocumentacionActiva_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarDocumentacionActiva" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BuscarDocumentacionActiva_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarDocumentacionActivaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaDocumentacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:AltaDocumentacion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaDocumentacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AltaDocumentacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ModificarDocumentacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarDocumentacion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ModificarDocumentacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarDocumentacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BajaDocumentacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:BajaDocumentacion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BajaDocumentacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BajaDocumentacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ListarDocumentacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarDocumentacion" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ListarDocumentacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarDocumentacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaHorasExtra_InputMessage">
+    <wsdl:part name="parameters" element="tns:AltaHorasExtra" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaHorasExtra_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AltaHorasExtraResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaSolicitud_InputMessage">
+    <wsdl:part name="parameters" element="tns:AltaSolicitud" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaSolicitud_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AltaSolicitudResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_CambiarEstado_InputMessage">
+    <wsdl:part name="parameters" element="tns:CambiarEstado" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_CambiarEstado_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CambiarEstadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ListarSolicitudes_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarSolicitudes" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ListarSolicitudes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarSolicitudesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ListarSolicitudesAlta_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarSolicitudesAlta" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ListarSolicitudesAlta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarSolicitudesAltaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BuscarTiposdeTramiteActivo_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarTiposdeTramiteActivo" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BuscarTiposdeTramiteActivo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarTiposdeTramiteActivoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaTiposdeTramite_InputMessage">
+    <wsdl:part name="parameters" element="tns:AltaTiposdeTramite" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaTiposdeTramite_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AltaTiposdeTramiteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ModificarTiposdeTramite_InputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarTiposdeTramite" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ModificarTiposdeTramite_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarTiposdeTramiteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BajaTiposdeTramite_InputMessage">
+    <wsdl:part name="parameters" element="tns:BajaTiposdeTramite" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BajaTiposdeTramite_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BajaTiposdeTramiteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ListarTiposdeTramite_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarTiposdeTramite" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ListarTiposdeTramite_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarTiposdeTramiteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BuscarUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BuscarUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:AltaUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_AltaUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AltaUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ModificarUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_ModificarUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BajaUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:BajaUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_BajaUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BajaUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_LogueoUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:LogueoUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IServicio_LogueoUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LogueoUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServicio">
+    <wsdl:operation name="BuscarDocumentacionActiva">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/BuscarDocumentacionActiva" message="tns:IServicio_BuscarDocumentacionActiva_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/BuscarDocumentacionActivaResponse" message="tns:IServicio_BuscarDocumentacionActiva_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AltaDocumentacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/AltaDocumentacion" message="tns:IServicio_AltaDocumentacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/AltaDocumentacionResponse" message="tns:IServicio_AltaDocumentacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarDocumentacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/ModificarDocumentacion" message="tns:IServicio_ModificarDocumentacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/ModificarDocumentacionResponse" message="tns:IServicio_ModificarDocumentacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BajaDocumentacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/BajaDocumentacion" message="tns:IServicio_BajaDocumentacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/BajaDocumentacionResponse" message="tns:IServicio_BajaDocumentacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarDocumentacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/ListarDocumentacion" message="tns:IServicio_ListarDocumentacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/ListarDocumentacionResponse" message="tns:IServicio_ListarDocumentacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AltaHorasExtra">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/AltaHorasExtra" message="tns:IServicio_AltaHorasExtra_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/AltaHorasExtraResponse" message="tns:IServicio_AltaHorasExtra_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AltaSolicitud">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/AltaSolicitud" message="tns:IServicio_AltaSolicitud_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/AltaSolicitudResponse" message="tns:IServicio_AltaSolicitud_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CambiarEstado">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/CambiarEstado" message="tns:IServicio_CambiarEstado_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/CambiarEstadoResponse" message="tns:IServicio_CambiarEstado_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarSolicitudes">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/ListarSolicitudes" message="tns:IServicio_ListarSolicitudes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/ListarSolicitudesResponse" message="tns:IServicio_ListarSolicitudes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarSolicitudesAlta">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/ListarSolicitudesAlta" message="tns:IServicio_ListarSolicitudesAlta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/ListarSolicitudesAltaResponse" message="tns:IServicio_ListarSolicitudesAlta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarTiposdeTramiteActivo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/BuscarTiposdeTramiteActivo" message="tns:IServicio_BuscarTiposdeTramiteActivo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/BuscarTiposdeTramiteActivoResponse" message="tns:IServicio_BuscarTiposdeTramiteActivo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AltaTiposdeTramite">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/AltaTiposdeTramite" message="tns:IServicio_AltaTiposdeTramite_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/AltaTiposdeTramiteResponse" message="tns:IServicio_AltaTiposdeTramite_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarTiposdeTramite">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/ModificarTiposdeTramite" message="tns:IServicio_ModificarTiposdeTramite_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/ModificarTiposdeTramiteResponse" message="tns:IServicio_ModificarTiposdeTramite_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BajaTiposdeTramite">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/BajaTiposdeTramite" message="tns:IServicio_BajaTiposdeTramite_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/BajaTiposdeTramiteResponse" message="tns:IServicio_BajaTiposdeTramite_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTiposdeTramite">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/ListarTiposdeTramite" message="tns:IServicio_ListarTiposdeTramite_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/ListarTiposdeTramiteResponse" message="tns:IServicio_ListarTiposdeTramite_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/BuscarUsuario" message="tns:IServicio_BuscarUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/BuscarUsuarioResponse" message="tns:IServicio_BuscarUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AltaUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/AltaUsuario" message="tns:IServicio_AltaUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/AltaUsuarioResponse" message="tns:IServicio_AltaUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/ModificarUsuario" message="tns:IServicio_ModificarUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/ModificarUsuarioResponse" message="tns:IServicio_ModificarUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BajaUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/BajaUsuario" message="tns:IServicio_BajaUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/BajaUsuarioResponse" message="tns:IServicio_BajaUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LogueoUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicio/LogueoUsuario" message="tns:IServicio_LogueoUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicio/LogueoUsuarioResponse" message="tns:IServicio_LogueoUsuario_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicio" type="tns:IServicio">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="BuscarDocumentacionActiva">
+      <soap:operation soapAction="http://tempuri.org/IServicio/BuscarDocumentacionActiva" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaDocumentacion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/AltaDocumentacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarDocumentacion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ModificarDocumentacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaDocumentacion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/BajaDocumentacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDocumentacion">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ListarDocumentacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaHorasExtra">
+      <soap:operation soapAction="http://tempuri.org/IServicio/AltaHorasExtra" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaSolicitud">
+      <soap:operation soapAction="http://tempuri.org/IServicio/AltaSolicitud" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CambiarEstado">
+      <soap:operation soapAction="http://tempuri.org/IServicio/CambiarEstado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarSolicitudes">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ListarSolicitudes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarSolicitudesAlta">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ListarSolicitudesAlta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarTiposdeTramiteActivo">
+      <soap:operation soapAction="http://tempuri.org/IServicio/BuscarTiposdeTramiteActivo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaTiposdeTramite">
+      <soap:operation soapAction="http://tempuri.org/IServicio/AltaTiposdeTramite" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarTiposdeTramite">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ModificarTiposdeTramite" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaTiposdeTramite">
+      <soap:operation soapAction="http://tempuri.org/IServicio/BajaTiposdeTramite" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTiposdeTramite">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ListarTiposdeTramite" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarUsuario">
+      <soap:operation soapAction="http://tempuri.org/IServicio/BuscarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaUsuario">
+      <soap:operation soapAction="http://tempuri.org/IServicio/AltaUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarUsuario">
+      <soap:operation soapAction="http://tempuri.org/IServicio/ModificarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaUsuario">
+      <soap:operation soapAction="http://tempuri.org/IServicio/BajaUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogueoUsuario">
+      <soap:operation soapAction="http://tempuri.org/IServicio/LogueoUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="BasicHttpBinding_IServicio" binding="tns:BasicHttpBinding_IServicio">
+      <soap:address location="http://pc116/ServicioWCF/Service.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

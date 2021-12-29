@@ -1,0 +1,22 @@
+C:\Users\usuario\Desktop\Tramites\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Tramites\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csprojAssemblyReference.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\EntidadesCompartidas\obj\Release\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\Bruno.000\Desktop\Tramites (1)\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb

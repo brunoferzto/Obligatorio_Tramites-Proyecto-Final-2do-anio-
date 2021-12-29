@@ -1,0 +1,52 @@
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\ServicioWCF.dll
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\ServicioWCF.pdb
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\Logica.dll
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\Persistencia.dll
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\Logica.pdb
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\bin\Persistencia.pdb
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\obj\Release\ServicioWCF.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\obj\Release\ServicioWCF.dll
+C:\Users\usuario\Desktop\Tramites\ServicioWCF\obj\Release\ServicioWCF.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\ServicioWCF.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\ServicioWCF.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\EntidadesCompartidas.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\Logica.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\Persistencia.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\EntidadesCompartidas.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\Logica.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\bin\Persistencia.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.csproj.CopyComplete
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\ServicioWCF.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\ServicioWCF.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\EntidadesCompartidas.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\Logica.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\Persistencia.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\EntidadesCompartidas.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\Logica.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\bin\Persistencia.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.csprojAssemblyReference.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.csproj.CopyComplete
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\ServicioWCF\obj\Release\ServicioWCF.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\ServicioWCF.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\ServicioWCF.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\EntidadesCompartidas.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\Logica.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\Persistencia.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\EntidadesCompartidas.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\Logica.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\bin\Persistencia.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\obj\Release\ServicioWCF.csprojResolveAssemblyReference.cache
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\obj\Release\ServicioWCF.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\ServicioWCF\obj\Release\ServicioWCF.pdb

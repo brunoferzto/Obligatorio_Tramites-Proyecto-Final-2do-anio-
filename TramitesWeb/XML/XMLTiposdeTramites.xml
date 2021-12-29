@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TiposdeTramites>
+  <Tramite>
+    <Codigo></Codigo>
+    <Nombre></Nombre>
+    <Descripcion></Descripcion>
+    <Precio></Precio>
+    <Requiere>
+      <Documentos>
+        <DocumentocionCodigo></DocumentocionCodigo>
+        <DocumentacionNombre></DocumentacionNombre>
+      </Documentos>
+    </Requiere>
+  </Tramite>
+</TiposdeTramites>

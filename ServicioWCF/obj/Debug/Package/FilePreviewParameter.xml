@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/ServicioWCF" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Administrador\\Desktop\\OBLIHA\\Tramites\ \(1\)\\ServicioWCF\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Administrador\\Desktop\\OBLIHA\\Tramites\ \(1\)\\ServicioWCF\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

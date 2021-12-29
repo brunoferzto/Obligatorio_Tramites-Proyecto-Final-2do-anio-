@@ -1,0 +1,32 @@
+C:\Users\usuario\Desktop\Tramites\Persistencia\bin\Release\Persistencia.dll
+C:\Users\usuario\Desktop\Tramites\Persistencia\bin\Release\Persistencia.pdb
+C:\Users\usuario\Desktop\Tramites\Persistencia\bin\Release\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Tramites\Persistencia\bin\Release\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Tramites\Persistencia\obj\Release\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Tramites\Persistencia\obj\Release\Persistencia.dll
+C:\Users\usuario\Desktop\Tramites\Persistencia\obj\Release\Persistencia.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\bin\Release\Persistencia.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\bin\Release\Persistencia.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\bin\Release\EntidadesCompartidas.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.csproj.CopyComplete
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.dll
+C:\Users\Diego\Desktop\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\bin\Release\Persistencia.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\bin\Release\Persistencia.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\bin\Release\EntidadesCompartidas.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.csprojAssemblyReference.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.csproj.CopyComplete
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.dll
+C:\Users\Diego\Google Drive\PROYECTO FINAL\Tramites\Persistencia\obj\Release\Persistencia.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Persistencia\bin\Release\Persistencia.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\Persistencia\bin\Release\Persistencia.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Persistencia\bin\Release\EntidadesCompartidas.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\Persistencia\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Bruno.000\Desktop\Tramites (1)\Persistencia\obj\Release\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Bruno.000\Desktop\Tramites (1)\Persistencia\obj\Release\Persistencia.dll
+C:\Users\Bruno.000\Desktop\Tramites (1)\Persistencia\obj\Release\Persistencia.pdb
